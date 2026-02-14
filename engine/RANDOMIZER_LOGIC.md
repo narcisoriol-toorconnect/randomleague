@@ -15,10 +15,11 @@ The engine is a pure function. Every time it runs, it expects:
 | Name | Type | Description |
 | :--- | :--- | :--- |
 | `available_pool` | `List[Player]` | Array of `{ id, position, market_value, club_id }`. |
-| `max_value` | `Decimal` | Total budget allowed for the 15 players. |
-| `tier_config` | `JSON` | Price limits for `STAR`, `GOOD`, `AVG`, `BAD`. |
+| `min_budget` | `Decimal` | Minimum total cost for the 15-player squad. |
+| `max_budget` | `Decimal` | Maximum total cost for the 15-player squad. |
+| `tier_config` | `JSON` | Price limits/categories for `STAR`, `GOOD`, `AVG`, `BAD`. |
 | `pos_counts` | `JSON` | Required slots per position (e.g., `GK: 2...`). |
-| `tier_counts` | `JSON` | Required slots per tier (e.g., `STAR: 1...`). |
+| `tier_targets` | `JSON` | **Target** slots per tier (e.g., `STAR: 1, GOOD: 3...`). |
 
 ### 2.2 Outputs
 The engine returns the result of the generation:
@@ -57,19 +58,40 @@ The **STAR** player categorized in the input must **ALWAYS** be a `MID` or `FWD`
 
 ## 4. Execution Algorithm
 
-1.  **Preparation**: Split the `available_pool` into 4 sub-pools based on the `tier_config`.
-2.  **Pass 1 (The Star)**: 
-    - Randomly select 1 player from the `STAR` pool.
-    - Validate that they are a `MID` or `FWD`.
-    - If valid, decrement the `pos_counts` and `tier_counts`.
-3.  **Pass 2 (The Good)**: 
-    - Randomly select 3 players from the `GOOD` pool.
-    - For each, ensure their position still has an open slot in `pos_counts`.
-4.  **Pass 3 & 4 (Avg & Bad)**:
-    - Sequentially fill the remaining 11 slots using the same slot-checking logic.
-5.  **Final Validation (The Reset Trigger)**:
-    - **Budget**: Calculate `Total_Value`. If `Total_Value > max_value`, **ABORT** and restart step 1.
-    - **Deadlock**: If an open slot remains (e.g., GK) but no available players in the required tier match that position, **ABORT** and restart step 1.
+The engine follows a hierarchical "Fill-Down" strategy.
+
+### 4.1 Step 1: The Star Selection (Strict & Persistent)
+1. Pick exactly **1 STAR** from the `available_pool`.
+2. **Criteria**:
+   - Must match `MID` or `FWD` position.
+   - Total squad cost (currently just this 1 player) must be $\leq$ `max_budget`.
+3. **Draft Failure**: If no player in the `STAR` pool satisfies both position and budget, the engine must return a **Terminal Error** (League configuration is impossible).
+4. **Persistence**: This selection is **stored**. If the subsequent steps fail and trigger a reset, this Star is **retained**.
+
+### 4.2 Step 2: Hierarchical Tier Looping (GOOD -> AVG)
+Iterate through tiers to fill remaining slots (2-15).
+
+1. **Selection Logic**: For each requested slot in these tiers:
+   - Pick a random player from the tier pool.
+   - **Check**: Does the player fit an open position AND is `New_Total_Cost` $\leq$ `max_budget`?
+2. **"Soft" Fallback**: If a selection violates either position or budget:
+   - **DO NOT RETRY** this tier.
+   - **Immediately move to the next tier** (e.g., skip from GOOD to AVG).
+3. **AVG Tier Specifics**:
+   - **GK Priority**: If no Goalkeepers have been selected yet, the engine MUST prioritize a `GK` selection in this tier if available.
+
+### 4.3 Step 3: The Bad Tier (Fill & Guaranteed)
+1. **Selection**: Fills all remaining empty slots up to 15.
+2. **Budget Rule**: `max_budget` is **NOT** checked for players in this tier. They are selected purely based on position availability to ensure a complete squad.
+
+### 4.4 Step 4: Final Validation & Reset
+Once the 15 players are selected:
+1. **Minimum Check**: `Total_Value` must be $\geq$ `min_budget`.
+2. **Position Check**: All slots (2 GK, 5 DEF, 5 MID, 3 FWD) must be filled.
+3. **Reset Trigger**: If `Total_Value < min_budget` or if the engine somehow failed to fill all 15 position slots:
+   - **KEEP** the Star selected in Step 4.1.
+   - **WIPE** all other 14 selections.
+   - **RETRY** from Step 4.2.
 
 ---
 
