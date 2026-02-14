@@ -7,6 +7,6 @@ This directory contains the "Brain" of the Random League. These are pure algorit
 ## 📖 Specifications
 
 1.  **[Randomizer Logic](./RANDOMIZER_LOGIC.md)**: The algorithmic "Squad Generator" (Tiered assignment, position constraints).
-2.  **Scoring Engine**: (Ideation in progress).
+2.  **[Scoring Logic](./SCORING_LOGIC.md)**: The "Hybrid Model" (SofaScore Rating + Traditional Bonuses).
 
 ---

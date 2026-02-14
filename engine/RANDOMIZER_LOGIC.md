@@ -7,16 +7,26 @@ The Randomizer is a **pure function**. It is stateless and does not know about "
 
 ---
 
-## 2. Input Contract
-The engine requires the following arguments to execute:
+## 2. Data Contract
+
+### 2.1 Inputs
+The engine is a pure function. Every time it runs, it expects:
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| `available_pool` | `List[Player]` | All players currently not assigned to any other user. |
+| `available_pool` | `List[Player]` | Array of `{ id, position, market_value, club_id }`. |
 | `max_value` | `Decimal` | Total budget allowed for the 15 players. |
 | `tier_config` | `JSON` | Price limits for `STAR`, `GOOD`, `AVG`, `BAD`. |
-| `pos_counts` | `JSON` | Required slots per position (e.g., `GK: 2, DEF: 5...`). |
-| `tier_counts` | `JSON` | Required slots per tier (e.g., `STAR: 1, GOOD: 3...`). |
+| `pos_counts` | `JSON` | Required slots per position (e.g., `GK: 2...`). |
+| `tier_counts` | `JSON` | Required slots per tier (e.g., `STAR: 1...`). |
+
+### 2.2 Outputs
+The engine returns the result of the generation:
+
+| Name | Type | Description |
+| :--- | :--- | :--- |
+| `squad_ids` | `List[ID]` | Array of 15 unique Player IDs that satisfy all constraints. |
+| `total_cost` | `Decimal` | The sum of market values of the selected players. |
 
 ---
 
