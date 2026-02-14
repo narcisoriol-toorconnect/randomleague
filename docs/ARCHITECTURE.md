@@ -105,17 +105,18 @@ sequenceDiagram
     API-->>User: Returns 15 random players
 ```
 
-**Use Case 2: Admin Overrides a Score**
-*Correction mechanism for data errors.*
+**Use Case 2: Admin Adjusts a User Score**
+*Manual point adjustments at the user level (Requirement SCORE-08).*
 ```mermaid
 sequenceDiagram
     actor Admin
     participant API as 🌐 Core API
     participant DB as 🗄️ Database
 
-    Admin->>API: POST /score/override {player_id, points}
-    API->>DB: Update `player_stats` table
-    API->>DB: Trigger re-calculation of `rankings`
+    Admin->>API: POST /admin/rankings/{user_id}/adjust {points_delta, reason}
+    API->>DB: Insert row into `rankings_history` (as adjustment)
+    API->>DB: Recalculate `points_total` for User
+    API->>DB: Log action in `audit_logs`
     API-->>Admin: "Success"
 ```
 
@@ -203,8 +204,8 @@ sequenceDiagram
     end
 ```
 
-**Use Case 7: New User Onboarding & Auth**
-*Admin adds a colleague + Login flow.*
+**Use Case 7: Admin Onboarding**
+*Admin adds a colleague + Manual credential sharing.*
 ```mermaid
 sequenceDiagram
     actor Admin
@@ -212,16 +213,12 @@ sequenceDiagram
     participant DB as 🗄️ Database
     actor NewUser
 
-    note over Admin, NewUser: Registration Phase
-    Admin->>API: Create User {email, name}
-    API->>DB: Insert User Profile (role='user')
-    API->>NewUser: Send Invite Email
-
-    note over Admin, NewUser: First Login Phase
-    NewUser->>API: Login(email, temp_password)
-    API->>DB: Validate Creds
+    Admin->>API: POST /admin/users {email, name, pwd}
+    API->>DB: Insert User Profile
+    API-->>Admin: "User Created"
+    Admin->>NewUser: "Here are your credentials (Manual)"
+    NewUser->>API: POST /auth/login
     API-->>NewUser: Return Auth Token
-    NewUser->>API: Update Password
 ```
 
 ### 3.4 Data Ingestion & Rankings
@@ -276,23 +273,25 @@ sequenceDiagram
     end
 ```
 
-**Use Case 11: Admin Management & Moderation**
-*Manual control: Lock League & Delete Posts.*
+**Use Case 11: Admin Management & Manual Transfers**
+*Manual control: Lock League, Delete Posts, and Handle Transfers.*
 ```mermaid
 sequenceDiagram
     actor Admin
     participant API as 🌐 Core API
     participant DB as 🗄️ Database
 
-    par Lock League (Manual)
-        Admin->>API: Toggle League Lock (ON)
-        API->>DB: Update `league_settings`
-        API->>API: Broadcast "Squad Editing Disabled"
+    par Manual Transfer (Add Player)
+        Admin->>API: POST /admin/squads/{user_id}/players {player_id}
+        API->>DB: Insert into `squad_players`
+    and Manual Transfer (Remove Player)
+        Admin->>API: DELETE /admin/squads/{user_id}/players/{player_id}
+        API->>DB: Delete from `squad_players`
     and Moderate Forum
-        Admin->>API: Delete Post {post_id}
+        Admin->>API: DELETE /admin/forum/posts/{post_id}
         API->>DB: Soft Delete row in `forum_posts`
-        API->>API: Notify User "Post Removed"
     end
+    API->>DB: Log all actions in `audit_logs`
 ```
 
 ---

@@ -54,7 +54,7 @@ This document defines the core data structures for the gameplay loop: Players, S
 - `fantasy_points` (Integer): calculated score for this game.
 
 ## 2. Relationships
-- A `squad` has exactly 15 `squad_players` (11 starters + 4 bench).
+- A `squad` usually contains 15 `squad_players` (11 starters + 4 bench), but can be manually adjusted by an Admin.
 - A `player` can be in multiple `squads` (unless constrained by league rules to be exclusive).
 - `player_stats` links a real-world match performance to a player definition.
 

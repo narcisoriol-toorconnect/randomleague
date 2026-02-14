@@ -8,7 +8,7 @@ This document defines the schema for tracking administrative and critical system
 **Purpose**: Keeps a record of when an admin or system process changes critical data.
 - `id` (Primary Key).
 - `user_id` (Foreign Key -> `users.id`, Optional): Who performed the action. NULL if it was an automated system bot.
-- `action` (String): Descriptive tag (e.g., `LEAGUE_RESET`, `SCORE_OVERRIDE`, `POST_DELETE`, `USER_DEACTIVATE`).
+- `action` (String): Descriptive tag (e.g., `LEAGUE_RESET`, `USER_POINT_ADJUST`, `SQUAD_TRANSFER`, `POST_DELETE`, `USER_DEACTIVATE`).
 - `target_type` (String): The table/entity affected (e.g., `players`, `forum_posts`).
 - `target_id` (String): ID of the affected record.
 - `old_values` (JSON, Optional): State before the change.

@@ -37,7 +37,6 @@
 | AUTH-02 | Users authenticate with username/email and password | Must |
 | AUTH-03 | Session persists so users don't have to log in every time they open the app | Should |
 | AUTH-04 | Logout option available from the app | Must |
-| AUTH-05 | Password reset mechanism (admin-assisted or self-service) | Could |
 
 ---
 
@@ -138,9 +137,7 @@ The admin is **not a separate panel or dashboard** — it is a regular user acco
 | ADM-03 | Admin can register/deactivate users | Must |
 | ADM-04 | Admin can lock/unlock squad editing globally | Must |
 | ADM-05 | Admin can publish posts on the forum | Must |
-| ADM-06 | Admin can update player scores / match results | Must |
-| ADM-07 | Admin can manage the player pool (add/remove/edit players) | Must |
-| ADM-08 | Admin can assign players to users | Must |
+| ADM-08 | Admin can manually **add or remove players** from any user's squad (Transfers) | Should |
 | ADM-09 | Admin can moderate forum content (delete posts/comments) | Should |
 
 ---
