@@ -28,13 +28,13 @@ Users are manually registered by the admin. One user (the league organizer) has 
 
 The repository is organized by **Functional Domains** (Conceptual Blocks):
 
-- **`📱 client/`**: The User Interface (Mobile App).
-- **`🌐 api/`**: The Backend Logic & API Gateway.
-- **`🗄️ database/`**: Schema definitions and Migrations.
-- **`🎲 engine/`**: Core Game Mechanics (Randomizer, Scorer).
-- **`🕷️ scrapers/`**: External Data Connectors (Player/Match stats).
-- **`📰 chronicle/`**: Content Generation Bots (AI Journalist).
-- **`📚 docs/`**: Project Documentation.
+- **[`📱 client/`](./client/README.md)**: The User Interface (Mobile App).
+- **[`🌐 api/`](./api/README.md)**: The Backend Logic & API Gateway.
+- **[`🗄️ database/`](./database/README.md)**: Schema definitions and Migrations.
+- **[`🎲 engine/`](./engine/README.md)**: Core Game Mechanics (Randomizer, Scorer).
+- **[`🕷️ scrapers/`](./scrapers/README.md)**: External Data Connectors (Player/Match stats).
+- **[`📰 chronicle/`](./chronicle/README.md)**: Content Generation Bots (AI Journalist).
+- **[`📚 docs/`](./docs/README.md)**: Project Documentation.
 
 ---
 
