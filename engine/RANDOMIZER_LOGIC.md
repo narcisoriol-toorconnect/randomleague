@@ -51,7 +51,10 @@ The 15 players must fill exactly:
 The **STAR** player categorized in the input must **ALWAYS** be a `MID` or `FWD`. 
 - *Rationale*: Guarantees that every user has a high-scoring attacking threat.
 
-### 3.4 Club Quota
+### 3.4 Availability
+- **Strict Exclusion**: Players with an `availability_status` other than `AVAILABLE` (e.g., `INJURED`, `SUSPENDED`) must be excluded from the `available_pool` before or during the draft phase.
+
+### 3.5 Club Quota
 - **Pure Luck**: There is no limit on how many players can come from the same real-life team.
 
 ---

@@ -12,7 +12,9 @@ This document defines the core data structures for the gameplay loop: Players, S
 - `position` (Enum): 'GK', 'DEF', 'MID', 'FWD'.
 - `market_value` (Decimal): Current price in Euros.
 - `photo_url` (String, Optional): Link to headshot.
+- `availability_status` (String): e.g., 'AVAILABLE', 'INJURED', 'SUSPENDED', 'DOUBTFUL'.
 - `is_active` (Boolean): If false, player has left the league (cannot be drafted).
+- `last_sync_at` (Timestamp): When this data was last scraped.
 
 ### `squads`
 **Purpose**: Represents a user's team for a specific matchday.
