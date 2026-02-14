@@ -158,7 +158,7 @@ Fantasy points are calculated automatically based on real La Liga player perform
 | SCORE-05 | Only the **11 selected players** in a user's squad earn points (bench players do not score) | Must |
 | SCORE-06 | Users can designate one player as **captain** — the captain earns **double points** | Must |
 | SCORE-07 | Points are updated after each La Liga matchday | Must |
-| SCORE-08 | Admin can **manually override** a player's points for a matchday if needed | Should |
+| SCORE-08 | Admin can **manually override** a user's total points for a matchday if needed | Should |
 | SCORE-09 | Historical points per player per matchday are stored for breakdown views | Should |
 
 ---
