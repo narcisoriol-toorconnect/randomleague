@@ -1,0 +1,2890 @@
+[
+  {
+    "id": "jornada-1",
+    "jornada": "Jornada 1",
+    "matches": [
+      {
+        "home_team": "Girona",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "15 Ago 2025 19:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-1/girona-rayo-vallecano-5/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "15 Ago 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-1/villarreal-real-oviedo/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "16 Ago 2025 19:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-1/mallorca-barcelona-6/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "16 Ago 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-1/alaves-levante-5/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "16 Ago 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-1/valencia-real-sociedad-8/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "17 Ago 2025 17:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-1/celta-getafe-8/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "17 Ago 2025 19:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-1/athletic-sevilla-8/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "17 Ago 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-1/espanyol-atletico-6/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "18 Ago 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-1/elche-betis-4/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "19 Ago 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-1/real-madrid-osasuna-7/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-2",
+    "jornada": "Jornada 2",
+    "matches": [
+      {
+        "home_team": "Betis",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "22 Ago 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-2/betis-alaves-7/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "23 Ago 2025 17:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-2/mallorca-celta-6/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "23 Ago 2025 19:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-2/atletico-elche-4/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "23 Ago 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-2/levante-barcelona-5/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "24 Ago 2025 17:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-2/osasuna-valencia-7/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "24 Ago 2025 19:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-2/real-sociedad-espanyol-6/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "24 Ago 2025 19:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-2/villarreal-girona-5/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "24 Ago 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-2/real-oviedo-real-madrid/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "25 Ago 2025 19:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-2/athletic-rayo-vallecano-6/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "25 Ago 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-2/sevilla-getafe-8/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-6",
+    "jornada": "Jornada 6",
+    "matches": [
+      {
+        "home_team": "Celta",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "27 Ago 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-6/celta-betis-8/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "23 Sep 2025 19:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-6-aplazada/espanyol-valencia-6/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "23 Sep 2025 19:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-6-aplazada/athletic-girona-5/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "23 Sep 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-6-aplazada/sevilla-villarreal-8/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "23 Sep 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-6-aplazada/levante-real-madrid-5/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "24 Sep 2025 19:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-6-aplazada/getafe-alaves-7/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "24 Sep 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-6-aplazada/real-sociedad-mallorca-6/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "24 Sep 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-6-aplazada/atletico-rayo-vallecano-6/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "25 Sep 2025 19:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-6-aplazada/osasuna-elche-4/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "25 Sep 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-6-aplazada/real-oviedo-barcelona/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-3",
+    "jornada": "Jornada 3",
+    "matches": [
+      {
+        "home_team": "Elche",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "29 Ago 2025 19:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-3/elche-levante-3/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "29 Ago 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-3/valencia-getafe-8/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "30 Ago 2025 17:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-3/alaves-atletico-7/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "30 Ago 2025 19:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-3/real-oviedo-real-sociedad/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "30 Ago 2025 19:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-3/girona-sevilla-5/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "30 Ago 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-3/real-madrid-mallorca-6/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "31 Ago 2025 17:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-3/celta-villarreal-8/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "31 Ago 2025 19:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-3/betis-athletic-8/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "31 Ago 2025 19:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-3/espanyol-osasuna-5/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "31 Ago 2025 21:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-3/rayo-vallecano-barcelona-6/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-4",
+    "jornada": "Jornada 4",
+    "matches": [
+      {
+        "home_team": "Sevilla",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "12 Sep 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-4/sevilla-elche-4/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "13 Sep 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-4/getafe-real-oviedo/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "13 Sep 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-4/real-sociedad-real-madrid-8/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "13 Sep 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-4/athletic-alaves-7/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "13 Sep 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-4/atletico-villarreal-8/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "14 Sep 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-4/celta-girona-5/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "14 Sep 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-4/levante-betis-5/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "14 Sep 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-4/osasuna-rayo-vallecano-5/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "14 Sep 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-4/barcelona-valencia-8/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "15 Sep 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-4/espanyol-mallorca-5/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-5",
+    "jornada": "Jornada 5",
+    "matches": [
+      {
+        "home_team": "Betis",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "19 Sep 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-5/betis-real-sociedad-8/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "20 Sep 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-5/girona-levante-2/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "20 Sep 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-5/real-madrid-espanyol-6/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "20 Sep 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-5/villarreal-osasuna-7/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "20 Sep 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-5/alaves-sevilla-7/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "20 Sep 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-5/valencia-athletic-8/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "21 Sep 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-5/rayo-vallecano-celta-6/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "21 Sep 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-5/mallorca-atletico-6/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "21 Sep 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-5/elche-real-oviedo/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "21 Sep 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-5/barcelona-getafe-8/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-7",
+    "jornada": "Jornada 7",
+    "matches": [
+      {
+        "home_team": "Girona",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "26 Sep 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-7/girona-espanyol-4/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "27 Sep 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-7/getafe-levante-5/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "27 Sep 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-7/atletico-real-madrid-8/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "27 Sep 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-7/mallorca-alaves-5/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "27 Sep 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-7/villarreal-athletic-8/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "28 Sep 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-7/rayo-vallecano-sevilla-6/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "28 Sep 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-7/elche-celta-4/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "28 Sep 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-7/barcelona-real-sociedad-8/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "28 Sep 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-7/betis-osasuna-7/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "30 Sep 2025 20:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-7/valencia-real-oviedo/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-8",
+    "jornada": "Jornada 8",
+    "matches": [
+      {
+        "home_team": "Osasuna",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "3 Oct 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-8/osasuna-getafe-7/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "4 Oct 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-8/real-oviedo-levante/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "4 Oct 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-8/girona-valencia-5/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "4 Oct 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-8/athletic-mallorca-6/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "4 Oct 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-8/real-madrid-villarreal-8/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "5 Oct 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-8/alaves-elche-3/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "5 Oct 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-8/sevilla-barcelona-8/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "5 Oct 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-8/real-sociedad-rayo-vallecano-6/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "5 Oct 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-8/espanyol-betis-6/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "5 Oct 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-8/celta-atletico-8/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-9",
+    "jornada": "Jornada 9",
+    "matches": [
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "17 Oct 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-9/real-oviedo-espanyol/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "18 Oct 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-9/sevilla-mallorca-6/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "18 Oct 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-9/barcelona-girona-5/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "18 Oct 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-9/villarreal-betis-8/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "18 Oct 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-9/atletico-osasuna-7/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "19 Oct 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-9/elche-athletic-4/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "19 Oct 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-9/celta-real-sociedad-8/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "19 Oct 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-9/levante-rayo-vallecano-3/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "19 Oct 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-9/getafe-real-madrid-8/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "20 Oct 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-9/alaves-valencia-7/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-10",
+    "jornada": "Jornada 10",
+    "matches": [
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "24 Oct 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-10/real-sociedad-sevilla-8/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "25 Oct 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-10/girona-real-oviedo/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "25 Oct 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-10/espanyol-elche-3/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "25 Oct 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-10/athletic-getafe-8/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "25 Oct 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-10/valencia-villarreal-8/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "26 Oct 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-10/mallorca-levante-3/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "26 Oct 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-10/real-madrid-barcelona-8/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "26 Oct 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-10/osasuna-celta-7/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "26 Oct 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-10/rayo-vallecano-alaves-5/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "27 Oct 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-10/betis-atletico-8/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-11",
+    "jornada": "Jornada 11",
+    "matches": [
+      {
+        "home_team": "Getafe",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "31 Oct 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-11/getafe-girona-5/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "1 Nov 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-11/villarreal-rayo-vallecano-6/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "1 Nov 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-11/atletico-sevilla-8/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "1 Nov 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-11/real-sociedad-athletic-8/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "1 Nov 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-11/real-madrid-valencia-8/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "2 Nov 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-11/levante-celta-5/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "2 Nov 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-11/alaves-espanyol-5/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "2 Nov 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-11/barcelona-elche-4/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "2 Nov 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-11/betis-mallorca-6/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "3 Nov 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-11/real-oviedo-osasuna/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-12",
+    "jornada": "Jornada 12",
+    "matches": [
+      {
+        "home_team": "Elche",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "7 Nov 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-12/elche-real-sociedad-4/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "8 Nov 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-12/girona-alaves-4/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "8 Nov 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-12/sevilla-osasuna-7/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "8 Nov 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-12/atletico-levante-5/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "8 Nov 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-12/espanyol-villarreal-6/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "9 Nov 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-12/athletic-real-oviedo/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "9 Nov 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-12/rayo-vallecano-real-madrid-6/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "9 Nov 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-12/valencia-betis-8/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "9 Nov 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-12/mallorca-getafe-6/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "9 Nov 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-12/celta-barcelona-8/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-13",
+    "jornada": "Jornada 13",
+    "matches": [
+      {
+        "home_team": "Valencia",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "21 Nov 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-13/valencia-levante-5/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "22 Nov 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-13/alaves-celta-7/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "22 Nov 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-13/barcelona-athletic-8/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "22 Nov 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-13/osasuna-real-sociedad-7/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "22 Nov 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-13/villarreal-mallorca-6/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "23 Nov 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-13/real-oviedo-rayo-vallecano/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "23 Nov 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-13/betis-girona-5/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "23 Nov 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-13/getafe-atletico-8/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "23 Nov 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-13/elche-real-madrid-4/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "24 Nov 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-13/espanyol-sevilla-6/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-14",
+    "jornada": "Jornada 14",
+    "matches": [
+      {
+        "home_team": "Getafe",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "28 Nov 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-14/getafe-elche-4/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "29 Nov 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-14/mallorca-osasuna-6/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "29 Nov 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-14/barcelona-alaves-7/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "29 Nov 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-14/levante-athletic-5/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "29 Nov 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-14/atletico-real-oviedo/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "30 Nov 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-14/real-sociedad-villarreal-8/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "30 Nov 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-14/sevilla-betis-8/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "30 Nov 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-14/celta-espanyol-6/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "30 Nov 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-14/girona-real-madrid-5/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "1 Dic 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-14/rayo-vallecano-valencia-6/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-19",
+    "jornada": "Jornada 19",
+    "matches": [
+      {
+        "home_team": "Barcelona",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "2 Dic 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-19/barcelona-atletico-8/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "3 Dic 2025 19:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-19/athletic-real-madrid-8/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "9 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-19-aplazada/getafe-real-sociedad-8/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "10 Ene 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-19-aplazada/real-oviedo-betis/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "10 Ene 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-19-aplazada/villarreal-alaves-7/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "10 Ene 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-19-aplazada/girona-osasuna-4/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "10 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-19-aplazada/valencia-elche-4/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "11 Ene 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-19-aplazada/rayo-vallecano-mallorca-5/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "11 Ene 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-19-aplazada/levante-espanyol-4/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "12 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-19-aplazada/sevilla-celta-8/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-15",
+    "jornada": "Jornada 15",
+    "matches": [
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "5 Dic 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-15/real-oviedo-mallorca/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "6 Dic 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-15/villarreal-getafe-8/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "6 Dic 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-15/alaves-real-sociedad-7/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "6 Dic 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-15/betis-barcelona-8/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "6 Dic 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-15/athletic-atletico-8/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "7 Dic 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-15/elche-girona-2/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "7 Dic 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-15/valencia-sevilla-8/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "7 Dic 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-15/espanyol-rayo-vallecano-5/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "7 Dic 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-15/real-madrid-celta-8/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "8 Dic 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-15/osasuna-levante-4/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-16",
+    "jornada": "Jornada 16",
+    "matches": [
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "12 Dic 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-16/real-sociedad-girona-5/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "13 Dic 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-16/atletico-valencia-8/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "13 Dic 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-16/mallorca-elche-3/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "13 Dic 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-16/barcelona-osasuna-7/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "13 Dic 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-16/getafe-espanyol-6/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "14 Dic 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-16/sevilla-real-oviedo/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "14 Dic 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-16/celta-athletic-8/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "14 Dic 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-16/alaves-real-madrid-7/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "15 Dic 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-16/rayo-vallecano-betis-6/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "18 Feb 20:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-16-aplazada/levante-villarreal-5/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-17",
+    "jornada": "Jornada 17",
+    "matches": [
+      {
+        "home_team": "Valencia",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "19 Dic 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-17/valencia-mallorca-6/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "20 Dic 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-17/real-oviedo-celta/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "20 Dic 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-17/levante-real-sociedad-5/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "20 Dic 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-17/osasuna-alaves-6/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "20 Dic 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-17/real-madrid-sevilla-8/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "21 Dic 2025 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-17/girona-atletico-5/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "21 Dic 2025 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-17/villarreal-barcelona-8/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "21 Dic 2025 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-17/elche-rayo-vallecano-3/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "21 Dic 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-17/betis-getafe-8/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "22 Dic 2025 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-17/athletic-espanyol-6/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-18",
+    "jornada": "Jornada 18",
+    "matches": [
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "2 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-18/rayo-vallecano-getafe-6/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "3 Ene 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-18/celta-valencia-8/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "3 Ene 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-18/osasuna-athletic-7/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "3 Ene 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-18/elche-villarreal-4/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "3 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-18/espanyol-barcelona-6/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "4 Ene 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-18/sevilla-levante-5/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "4 Ene 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-18/real-madrid-betis-8/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "4 Ene 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-18/mallorca-girona-4/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "4 Ene 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-18/alaves-real-oviedo/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "4 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-18/real-sociedad-atletico-8/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-20",
+    "jornada": "Jornada 20",
+    "matches": [
+      {
+        "home_team": "Espanyol",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "16 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-20/espanyol-girona-4/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "17 Ene 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-20/real-madrid-levante-5/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "17 Ene 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-20/mallorca-athletic-6/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "17 Ene 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-20/osasuna-real-oviedo/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "17 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-20/betis-villarreal-8/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "18 Ene 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-20/getafe-valencia-8/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "18 Ene 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-20/atletico-alaves-7/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "18 Ene 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-20/celta-rayo-vallecano-6/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "18 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-20/real-sociedad-barcelona-8/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "19 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-20/elche-sevilla-4/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-21",
+    "jornada": "Jornada 21",
+    "matches": [
+      {
+        "home_team": "Levante",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "23 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-21/levante-elche-3/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "24 Ene 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-21/rayo-vallecano-osasuna-5/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "24 Ene 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-21/valencia-espanyol-6/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "24 Ene 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-21/sevilla-athletic-8/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "24 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-21/villarreal-real-madrid-8/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "25 Ene 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-21/atletico-mallorca-6/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "25 Ene 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-21/barcelona-real-oviedo/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "25 Ene 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-21/real-sociedad-celta-8/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "25 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-21/alaves-betis-7/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "26 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-21/girona-getafe-5/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-22",
+    "jornada": "Jornada 22",
+    "matches": [
+      {
+        "home_team": "Espanyol",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "30 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-22/espanyol-alaves-5/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "31 Ene 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-22/real-oviedo-girona/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "31 Ene 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-22/osasuna-villarreal-7/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "31 Ene 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-22/levante-atletico-5/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "31 Ene 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-22/elche-barcelona-4/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "1 Feb 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-22/real-madrid-rayo-vallecano-6/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "1 Feb 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-22/betis-valencia-8/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "1 Feb 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-22/getafe-celta-8/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "1 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-22/athletic-real-sociedad-8/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "2 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-22/mallorca-sevilla-6/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-23",
+    "jornada": "Jornada 23",
+    "matches": [
+      {
+        "home_team": "Celta",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "6 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-23/celta-osasuna-7/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "7 Feb 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-23/barcelona-mallorca-6/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "7 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-23/real-sociedad-elche-4/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "8 Feb 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-23/alaves-getafe-7/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "8 Feb 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-23/sevilla-girona-5/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "8 Feb 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-23/athletic-levante-5/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "8 Feb 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-23/atletico-betis-8/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "8 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-23/valencia-real-madrid-8/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "9 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-23/villarreal-espanyol-6/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "4 Mar 19:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-23-aplazada/rayo-vallecano-real-oviedo/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-24",
+    "jornada": "Jornada 24",
+    "matches": [
+      {
+        "home_team": "Elche",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "13 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-24/elche-osasuna-4/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "14 Feb 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-24/espanyol-celta-6/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "14 Feb 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-24/getafe-villarreal-8/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "14 Feb 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-24/sevilla-alaves-7/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "14 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-24/real-madrid-real-sociedad-8/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "15 Feb 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-24/real-oviedo-athletic/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "15 Feb 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-24/rayo-vallecano-atletico-6/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "15 Feb 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-24/levante-valencia-5/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "15 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-24/mallorca-betis-6/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "16 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-24/girona-barcelona-5/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-25",
+    "jornada": "Jornada 25",
+    "matches": [
+      {
+        "home_team": "Athletic",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "20 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-25/athletic-elche-4/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "21 Feb 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-25/real-sociedad-real-oviedo/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "21 Feb 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-25/betis-rayo-vallecano-6/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "21 Feb 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-25/osasuna-real-madrid-7/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "21 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-25/atletico-espanyol-6/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "22 Feb 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-25/getafe-sevilla-8/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "22 Feb 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-25/barcelona-levante-5/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "22 Feb 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-25/celta-mallorca-6/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "22 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-25/villarreal-valencia-8/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "23 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-25/alaves-girona-4/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-26",
+    "jornada": "Jornada 26",
+    "matches": [
+      {
+        "home_team": "Levante",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "27 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-26/levante-alaves-5/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "28 Feb 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-26/rayo-vallecano-athletic-6/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "28 Feb 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-26/barcelona-villarreal-8/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "28 Feb 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-26/mallorca-real-sociedad-6/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "28 Feb 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-26/real-oviedo-atletico/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "1 Mar 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-26/elche-espanyol-3/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "1 Mar 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-26/valencia-osasuna-7/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "1 Mar 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-26/betis-sevilla-8/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "1 Mar 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-26/girona-celta-5/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "2 Mar 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-26/real-madrid-getafe-8/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-27",
+    "jornada": "Jornada 27",
+    "matches": [
+      {
+        "home_team": "Osasuna",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "6 Mar 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-27/osasuna-mallorca-6/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "7 Mar 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-27/getafe-betis-8/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "7 Mar 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-27/levante-girona-2/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "7 Mar 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-27/atletico-real-sociedad-8/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "7 Mar 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-27/celta-real-madrid-8/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "8 Mar 14:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-27/villarreal-elche-4/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "8 Mar 16:15",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-27/athletic-barcelona-8/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "8 Mar 18:30",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-27/sevilla-rayo-vallecano-6/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "8 Mar 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-27/valencia-alaves-7/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "9 Mar 21:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-27/espanyol-real-oviedo/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-28",
+    "jornada": "Jornada 28",
+    "matches": [
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "15 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-28/real-sociedad-osasuna-7/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "15 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-28/real-madrid-elche-4/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "15 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-28/real-oviedo-valencia/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "15 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-28/betis-celta-8/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "15 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-28/mallorca-espanyol-5/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "15 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-28/rayo-vallecano-levante-3/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "15 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-28/girona-athletic-5/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "15 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-28/barcelona-sevilla-8/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "15 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-28/alaves-villarreal-7/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "15 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-28/atletico-getafe-8/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-29",
+    "jornada": "Jornada 29",
+    "matches": [
+      {
+        "home_team": "Athletic",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "22 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-29/athletic-betis-8/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "22 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-29/barcelona-rayo-vallecano-6/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "22 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-29/elche-mallorca-3/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "22 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-29/espanyol-getafe-6/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "22 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-29/levante-real-oviedo/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "22 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-29/sevilla-valencia-8/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "22 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-29/celta-alaves-7/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "22 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-29/real-madrid-atletico-8/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "22 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-29/osasuna-girona-4/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "22 Mar 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-29/villarreal-real-sociedad-8/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-30",
+    "jornada": "Jornada 30",
+    "matches": [
+      {
+        "home_team": "Alavés",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "5 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-30/alaves-osasuna-6/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "5 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-30/atletico-barcelona-8/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "5 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-30/betis-espanyol-6/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "5 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-30/girona-villarreal-5/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "5 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-30/mallorca-real-madrid-6/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "5 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-30/real-oviedo-sevilla/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "5 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-30/getafe-athletic-8/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "5 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-30/valencia-celta-8/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "5 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-30/rayo-vallecano-elche-3/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "5 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-30/real-sociedad-levante-5/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-31",
+    "jornada": "Jornada 31",
+    "matches": [
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "12 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-31/real-madrid-girona-5/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "12 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-31/osasuna-betis-7/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "12 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-31/levante-getafe-5/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "12 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-31/real-sociedad-alaves-7/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "12 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-31/sevilla-atletico-8/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "12 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-31/mallorca-rayo-vallecano-5/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "12 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-31/elche-valencia-4/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "12 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-31/celta-real-oviedo/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "12 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-31/barcelona-espanyol-6/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "12 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-31/athletic-villarreal-8/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-33",
+    "jornada": "Jornada 33",
+    "matches": [
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "22 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-33/real-sociedad-getafe-8/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "22 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-33/girona-betis-5/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "22 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-33/rayo-vallecano-espanyol-5/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "22 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-33/real-madrid-alaves-7/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "22 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-33/elche-atletico-4/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "22 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-33/real-oviedo-villarreal/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "22 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-33/mallorca-valencia-6/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "22 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-33/levante-sevilla-5/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "22 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-33/barcelona-celta-8/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "22 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-33/athletic-osasuna-7/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-32",
+    "jornada": "Jornada 32",
+    "matches": [
+      {
+        "home_team": "Valencia",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "26 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-32/valencia-girona-5/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "26 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-32/villarreal-celta-8/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "26 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-32/real-oviedo-elche/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "26 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-32/atletico-athletic-8/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "26 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-32/getafe-barcelona-8/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "26 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-32/rayo-vallecano-real-sociedad-6/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "26 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-32/osasuna-sevilla-7/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "26 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-32/espanyol-levante-4/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "26 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-32/betis-real-madrid-8/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "26 Abr 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-32/alaves-mallorca-5/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-34",
+    "jornada": "Jornada 34",
+    "matches": [
+      {
+        "home_team": "Sevilla",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "3 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-34/sevilla-real-sociedad-8/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "3 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-34/osasuna-barcelona-7/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "3 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-34/villarreal-levante-5/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "3 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-34/girona-mallorca-4/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "3 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-34/valencia-atletico-8/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "3 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-34/getafe-rayo-vallecano-6/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "3 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-34/espanyol-real-madrid-6/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "3 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-34/celta-elche-4/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "3 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-34/betis-real-oviedo/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "3 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-34/alaves-athletic-7/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-35",
+    "jornada": "Jornada 35",
+    "matches": [
+      {
+        "home_team": "Barcelona",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "10 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-35/barcelona-real-madrid-8/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "10 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-35/rayo-vallecano-girona-5/"
+      },
+      {
+        "home_team": "Sevilla",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "10 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-35/sevilla-espanyol-6/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "10 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-35/real-oviedo-getafe/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "10 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-35/elche-alaves-3/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "10 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-35/real-sociedad-betis-8/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "10 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-35/mallorca-villarreal-6/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "10 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-35/levante-osasuna-4/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "10 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-35/atletico-celta-8/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "10 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-35/athletic-valencia-8/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-36",
+    "jornada": "Jornada 36",
+    "matches": [
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "13 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-36/real-madrid-real-oviedo/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "13 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-36/valencia-rayo-vallecano-6/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "13 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-36/villarreal-sevilla-8/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "13 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-36/espanyol-athletic-6/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "13 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-36/osasuna-atletico-7/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "13 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-36/girona-real-sociedad-5/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "13 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-36/getafe-mallorca-6/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "13 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-36/celta-levante-5/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "13 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-36/betis-elche-4/"
+      },
+      {
+        "home_team": "Alavés",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "13 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-36/alaves-barcelona-7/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-37",
+    "jornada": "Jornada 37",
+    "matches": [
+      {
+        "home_team": "Sevilla",
+        "away_team": "Real Madrid",
+        "score": "Scheduled",
+        "date": "17 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-37/sevilla-real-madrid-8/"
+      },
+      {
+        "home_team": "Real Oviedo",
+        "away_team": "Alavés",
+        "score": "Scheduled",
+        "date": "17 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-37/real-oviedo-alaves/"
+      },
+      {
+        "home_team": "Osasuna",
+        "away_team": "Espanyol",
+        "score": "Scheduled",
+        "date": "17 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-37/osasuna-espanyol-5/"
+      },
+      {
+        "home_team": "Rayo Vallecano",
+        "away_team": "Villarreal",
+        "score": "Scheduled",
+        "date": "17 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-37/rayo-vallecano-villarreal-6/"
+      },
+      {
+        "home_team": "Real Sociedad",
+        "away_team": "Valencia",
+        "score": "Scheduled",
+        "date": "17 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-37/real-sociedad-valencia-8/"
+      },
+      {
+        "home_team": "Levante",
+        "away_team": "Mallorca",
+        "score": "Scheduled",
+        "date": "17 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-37/levante-mallorca-3/"
+      },
+      {
+        "home_team": "Elche",
+        "away_team": "Getafe",
+        "score": "Scheduled",
+        "date": "17 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-37/elche-getafe-4/"
+      },
+      {
+        "home_team": "Barcelona",
+        "away_team": "Betis",
+        "score": "Scheduled",
+        "date": "17 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-37/barcelona-betis-8/"
+      },
+      {
+        "home_team": "Atlético",
+        "away_team": "Girona",
+        "score": "Scheduled",
+        "date": "17 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-37/atletico-girona-5/"
+      },
+      {
+        "home_team": "Athletic",
+        "away_team": "Celta",
+        "score": "Scheduled",
+        "date": "17 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-37/athletic-celta-8/"
+      }
+    ]
+  },
+  {
+    "id": "jornada-38",
+    "jornada": "Jornada 38",
+    "matches": [
+      {
+        "home_team": "Alavés",
+        "away_team": "Rayo Vallecano",
+        "score": "Scheduled",
+        "date": "24 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-38/alaves-rayo-vallecano-5/"
+      },
+      {
+        "home_team": "Betis",
+        "away_team": "Levante",
+        "score": "Scheduled",
+        "date": "24 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-38/betis-levante-5/"
+      },
+      {
+        "home_team": "Celta",
+        "away_team": "Sevilla",
+        "score": "Scheduled",
+        "date": "24 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-38/celta-sevilla-8/"
+      },
+      {
+        "home_team": "Espanyol",
+        "away_team": "Real Sociedad",
+        "score": "Scheduled",
+        "date": "24 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-38/espanyol-real-sociedad-6/"
+      },
+      {
+        "home_team": "Getafe",
+        "away_team": "Osasuna",
+        "score": "Scheduled",
+        "date": "24 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-38/getafe-osasuna-7/"
+      },
+      {
+        "home_team": "Mallorca",
+        "away_team": "Real Oviedo",
+        "score": "Scheduled",
+        "date": "24 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-38/mallorca-real-oviedo/"
+      },
+      {
+        "home_team": "Real Madrid",
+        "away_team": "Athletic",
+        "score": "Scheduled",
+        "date": "24 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-38/real-madrid-athletic-8/"
+      },
+      {
+        "home_team": "Villarreal",
+        "away_team": "Atlético",
+        "score": "Scheduled",
+        "date": "24 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-38/villarreal-atletico-8/"
+      },
+      {
+        "home_team": "Girona",
+        "away_team": "Elche",
+        "score": "Scheduled",
+        "date": "24 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-38/girona-elche-2/"
+      },
+      {
+        "home_team": "Valencia",
+        "away_team": "Barcelona",
+        "score": "Scheduled",
+        "date": "24 May 00:00",
+        "match_url": "https://biwenger.as.com/blog/partidos/2025-2026/jornada-38/valencia-barcelona-8/"
+      }
+    ]
+  }
+]
